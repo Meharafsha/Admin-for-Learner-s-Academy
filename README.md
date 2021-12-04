@@ -1,4 +1,5 @@
 # Admin-for-Learner-s-Academy
+Project and developer details 
 The goal of this project is to apply servlet, jsp and JDBC concepts.
 Aim of the project is to design and develop a backend admin portal for the Learner’s Academy using Java EE technologies.
 ------------------------------------------------------------------
@@ -39,7 +40,8 @@ How to run the program
 • Go to “\src\main\webapp\META-INF\context.xml” file and open it.
 
 • Edit the database’ properties such as username, password and driverClassName to be suit to your database administration tool.
-
 • Now run program on a server.
 
 • To login you must enter admin for both username and password.
+Developer details :
+Name : Meharafaha. A
